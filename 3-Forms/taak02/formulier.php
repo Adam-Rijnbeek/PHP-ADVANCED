@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form name = "formulier" method="GET" action="mijngegevens.php">
+    <form name = "formulier" method="POST" action="mijngegevens.php">
         <p>Voornaam: <input name= "first-name"></p>
         <p>Achternaam: <input name= "last-name"></p>
         <p>Klas: <input name= "klas"></p>
